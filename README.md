@@ -1,4 +1,4 @@
-# Arduino-Based Voltage Protection System
+# Microcontroller-Based Voltage Protection System
 
 ## Overview
 This project demonstrates a microcontroller-based voltage protection system using an Arduino Uno and Proteus simulation software. It monitors input voltage and protects electrical appliances from abnormal voltage conditions using automatic relay control.
